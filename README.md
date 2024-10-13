@@ -9,14 +9,15 @@
 
 
 
-  This program was developed in C to create a calculator with basic functions:
-  
-										- Sum
-										- Subtraction
-										- Multiplicatio 
-										- Division 
-										- Exponentiation 
-										- Square Root
+  Calculator Program is a C-based application designed to perform basic mathematical operations. The program provides a user-friendly interface to execute the following functions:
+
+
+-Sum
+-Subtraction
+-Multiplication
+-Division
+-Exponentiation
+-Square Root
 				
 ---------------------------------------------------------
 
