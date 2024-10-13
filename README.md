@@ -7,10 +7,9 @@
 ## Hugo Filipe Ferreira Lopes     				
  																	
 
-Linguagem C
 
 
-  This program was developed to create a calculator with basic functions:
+  This program was developed in C to create a calculator with basic functions:
   
 										- Sum
 										- Subtraction
