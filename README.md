@@ -9,17 +9,15 @@
 
 
 
+Calculator Program is a C-based application designed to perform basic mathematical operations. The program provides a user-friendly interface to execute the following functions:
 
-  This program was developed to create a calculator with basic functions:
-														- Sum
-														- Subtraction
-														- Multiplicatio 
-														- Division 
-														- Exponentiation 
-														- Square Root
+			-Sum
+			-Subtraction
+			-Multiplication
+			-Division
+			-Exponentiation
+			-Square Root
 				
 ---------------------------------------------------------
 
 ***********************************************************
-Professor Ernesto Casanova					
----------------------------------------------------------
