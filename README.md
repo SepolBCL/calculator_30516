@@ -21,5 +21,3 @@ Calculator Program is a C-based application designed to perform basic mathematic
 ---------------------------------------------------------
 
 ***********************************************************
-Professor Ernesto Casanova					
----------------------------------------------------------
