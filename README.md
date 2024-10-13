@@ -12,12 +12,12 @@ Linguagem C
 
   This program was developed to create a calculator with basic functions:
   
-														- Sum
-														- Subtraction
-														- Multiplicatio 
-														- Division 
-														- Exponentiation 
-														- Square Root
+										- Sum
+										- Subtraction
+										- Multiplicatio 
+										- Division 
+										- Exponentiation 
+										- Square Root
 				
 ---------------------------------------------------------
 
